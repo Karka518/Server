@@ -1,0 +1,23 @@
+.hyd a {
+ 	background-color: #00FFFF;
+ 	color: #A31919;
+ 	font-weight: bold; 
+ }
+ .hyd a {
+    width: 300px;
+    border: 15px solid navy;
+    margin: 25px;
+ }
+
+ a {
+ 	color: black;
+
+ }
+
+body{
+	background: #CCFFCC;
+ }
+
+ h1 {
+	margin: auto;	
+ }
